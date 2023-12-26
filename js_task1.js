@@ -52,7 +52,7 @@ function method3(b) {
 //   Count occurrences 
 
 
-var arr = [5, 5, 5, 2, 2, 2, 2, 2, 9, 4];
+var arr = [ 1, 2, 3, 4, 5, 2, 2, 3];
 var counts = {};
 for (var i = 0; i < arr.length; i++) {
   var num = arr[i];
